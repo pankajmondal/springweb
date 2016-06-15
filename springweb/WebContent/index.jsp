@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>springweb - a complete Spring 4 demo.</title>
 </head>
 <body>
 hello running!!!
